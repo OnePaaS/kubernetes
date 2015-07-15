@@ -96,3 +96,12 @@ If you are a company and are looking for a more formal engagement with Google ar
 
 
 [![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/README.md?pixel)]()
+
+## Learn 
+ 
+1.Kubernetes on meesos
+2.Kubernetes manage docker
+3.Kubernetes 原理分析
+4.Kubernetes 安装
+5.Kubernetes 如何参与开发
+6.Kubernetes 生产环境使用
